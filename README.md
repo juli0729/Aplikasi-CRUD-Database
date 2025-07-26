@@ -12,17 +12,17 @@ Note: Saya belum bisa membuat installernya jadi berikut saya berikan source code
 Apabila ingin running langsung, saya menyarankan seperti ini:
 # Cara Running Source Code Aplikasinya Julian Clever:
 
-⦁	Download Apache NetBeans IDE 21
-⦁	Download JDK 23
-⦁	Install Apache NetBeans IDE 21 dengan JDKnya
-⦁	Open project dan buka folder DatabaseAndCRUDbyJulianClever
-⦁	Konfigurasikan koneksi.java dalam package Koneksi dengan port mySQL yang dipakai
-⦁	Setelah itu buka halaman PHPMYADMIN untuk dan buat database kosong
-⦁	Tekan database yang telah dibuat yang ada di sebelah kiri
-⦁	Pilih menu import dan import file sql yang telah dilampirkan pada repository
-⦁	Setelah database berhasil dibuat dan sudah terkoneksi, buka Kembali NetBeans
-⦁	Klik kanan pada MainApp.java yang ada di package databaseandcrud, lalu pilih run
-⦁	Aplikasi sudah bisa digunakan
+- Download Apache NetBeans IDE 21
+- Download JDK 23
+- Install Apache NetBeans IDE 21 dengan JDKnya
+- Open project dan buka folder DatabaseAndCRUDbyJulianClever
+- Konfigurasikan koneksi.java dalam package Koneksi dengan port mySQL yang dipakai
+- Setelah itu buka halaman PHPMYADMIN untuk dan buat database kosong
+- Tekan database yang telah dibuat yang ada di sebelah kiri
+- Pilih menu import dan import file sql yang telah dilampirkan pada repository
+- Setelah database berhasil dibuat dan sudah terkoneksi, buka Kembali NetBeans
+- Klik kanan pada MainApp.java yang ada di package databaseandcrud, lalu pilih run
+- Aplikasi sudah bisa digunakan
 
 # Penjelasan Aplikasi
 Ini adalah aplikasi untuk menampilkan data barang yang terhubung dengan Database
