@@ -17,7 +17,8 @@ Note: Saya belum bisa membuat installernya jadi berikut saya berikan source code
 - Download Apache NetBeans IDE 21
 - Download JDK 23
 - Install Apache NetBeans IDE 21 dengan JDKnya
-- Open project dan buka folder DatabaseAndCRUDbyJulianClever
+- Extract File DatabaseAndCRUDbyJulianClever
+- Open project di NetBeans dan buka folder DatabaseAndCRUDbyJulianClever
 - Konfigurasikan koneksi.java dalam package Koneksi dengan port mySQL yang dipakai
 - Setelah itu buka halaman PHPMYADMIN untuk dan buat database kosong
 - Tekan database yang telah dibuat yang ada di sebelah kiri
