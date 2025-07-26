@@ -1,4 +1,5 @@
 # Aplikasi CRUD yang Connect ke Database by Julian Clever
+
 - Aplikasi ini menggunakan javax swing di Apache Netbeans 21 JDK 21.
 
 - Bahasa pemrograman yang digunakan: Java
@@ -9,7 +10,8 @@
 
 Note: Saya belum bisa membuat installernya jadi berikut saya berikan source codenya dan bisa dirunning menggunakan software dan versi java yang sama seperti di atas dengan file sql untuk databasenya.
 
-Apabila ingin running langsung, saya menyarankan seperti ini:
+- Apabila ingin running langsung, saya menyarankan seperti ini:
+
 # Cara Running Source Code Aplikasinya Julian Clever:
 
 - Download Apache NetBeans IDE 21
